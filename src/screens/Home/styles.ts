@@ -56,6 +56,12 @@ export const styles = StyleSheet.create({
         marginTop: 36,
         marginBottom: 42
 
-      }
+      },
+
+      listEmpyText:{
+        color: '#FFF',
+        fontSize: 14,
+        textAlign: 'center',
+      },
      
 })

@@ -5,8 +5,7 @@ export const styles = StyleSheet.create({
         backgroundColor: "#131016",
         flex: 1,
         padding: 24,
-        //justifyContent: 'center',
-        //alignItems: 'center'
+        
       },
 
       eventName: {

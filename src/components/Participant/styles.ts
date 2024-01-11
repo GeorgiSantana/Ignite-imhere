@@ -8,6 +8,8 @@ export const styles = StyleSheet.create({
     flexDirection: "row",
     alignItems: "center",
     marginBottom: 10,
+    
+  
   },
 
   name: {
@@ -31,5 +33,7 @@ export const styles = StyleSheet.create({
     alignItems: "center",
   },
 
+
+ 
   
 });
